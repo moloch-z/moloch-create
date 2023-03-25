@@ -1,6 +1,6 @@
 {
 	"name": "m-create",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "An easy way to start a web project",
 	"main": "index.js",
 	"bin": {
