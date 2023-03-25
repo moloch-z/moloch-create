@@ -17,9 +17,9 @@
 		"pub": "pnpm publish.sh"
 	},
 	"author": "moloch",
-	"homepage": "https://github.com/moloch-z/moloch-cli#readme",
+	"homepage": "https://github.com/moloch-z/moloch-create#readme",
 	"bugs": {
-		"url": "https://github.com/moloch-z/moloch-cli/issues"
+		"url": "https://github.com/moloch-z/moloch-create/issues"
 	},
 	"license": "MIT",
 	"dependencies": {
